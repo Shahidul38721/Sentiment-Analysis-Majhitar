@@ -448,5 +448,5 @@ The sentiment model successfully classifies Majhitar restaurant reviews into thr
 ## Author
 
 **Shahidul Islam**
-Text Analytics and Natural Language Processing — Machine Learning Assignment
+Text Analytics and Natural Language Processing — Assignment
 #
